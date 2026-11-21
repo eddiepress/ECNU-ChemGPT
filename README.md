@@ -1,4 +1,4 @@
-# ECNU-ChemGPT
+# ECNU-ChemGP
 
 <div align="center">
 
